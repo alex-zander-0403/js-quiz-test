@@ -1,7 +1,7 @@
 Простой интерактивный тест-заготовка под квиз-проект
 
 <div align="center">
-!(screenshots/main.png)
+!(./screenshots/js-quiz-test.png)
 </div>
 
 //
