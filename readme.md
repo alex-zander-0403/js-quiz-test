@@ -1,9 +1,18 @@
+# 🧪 JS Quiz Test
+
 Простой интерактивный тест-заготовка под квиз-проект
 
 <div align="center">
-![js-quiz-test](screenshots/js-quiz-test.png)
+
+![JS Quiz Test Interface](screenshots/js-quiz-test.png)
+*Интерфейс тестирования JavaScript*
+
 </div>
 
-// HTML
-// CSS
-// JavaScript (DOM manipulation)
+## 🛠 Технологии
+- **HTML** - структура страницы
+- **CSS** - стилизация и дизайн  
+- **JavaScript** - DOM manipulation и логика теста
+
+## 🚀 Запуск
+Откройте `index.html` в браузере
